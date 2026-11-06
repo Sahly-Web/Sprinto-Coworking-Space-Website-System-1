@@ -1,0 +1,12 @@
+﻿section,title,subtitle,description,image,rating,price,specs
+hero,"Sprinto is your partner on the journey to success and learning.","Start To Achieve • CoWorking Space","An inspiring coworking space, an integrated business environment that supports companies and freelancers.","","","",""
+stat,"1000+","مستفيد","","","","",""
+stat,"50+","ورشه و كورس","","","","",""
+stat,"24/7","مواعيد مرنه","","","","",""
+stat,"60+","خدمات متنوعه","","","","",""
+review,"يوسف اشرف","Freelancer","المكان فل الفل و الناس دي فل الفل","","5","",""
+course_item,"Full-Stack Web & AI Productivity","Tech & AI","Build real-world web applications and master modern AI workflows.","","","1,200 EGP","HTML/CSS/JS & React|AI Assistants|Portfolio Project"
+room_item,"Executive Boardroom (Room A)","Meeting Rooms","Soundproof glass executive room for client meetings & board reviews.","","","180 EGP / Hour","65-inch 4K Screen|Fiber Wi-Fi|Whiteboard"
+additional_item,"Podcast & Video Content Studio","Media & Studio","Record crystal-clear podcasts, reels, and courses.","","","250 EGP / Hour","2x Studio Mics|Softbox Lighting|Acoustic Treated"
+virtual_item,"Official Business Address & Mail Plan","Virtual Office","Use SprintO address on your commercial documents & Google Maps.","","","850 EGP / Month","Official Address|Mail Handling|WhatsApp Alerts"
+shared_item,"Daily CoWorking Hot-Desk Pass","Daily Passes","Full day workspace access with ultra-fast fiber Wi-Fi and welcome drink.","","","80 EGP / Day","Fiber Wi-Fi|Free Drink|Lounge Access"
